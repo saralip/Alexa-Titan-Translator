@@ -1,0 +1,59 @@
+Translate translate {hello|Source} to {Language}
+Translate ask Translate how to say {hello|Source} in {Language}
+Translate ask Translate to translate {hello|Source} to {Language}
+Translate get translation for {hello|Source} in {Language}
+Translate what is {hello|Source} in {Language}
+Translate translate {hello|Source} in {Language}
+Translate translate {hello|Source} {there|Source} to {Language}
+Translate translate {hello|Source} {cold|Source} {here|Source} to {Language}
+Translate translate {my|Source} {name|Source} {is|Source} {Alexa|Source} to {Language}
+Translate translate {the|Source} {weather|Source} {outside|Source} {is|Source} {frightful|Source} to {Language}
+Translate translate {the|Source} {meaning|Source} {of|Source} {life|Source} {is|Source} {forty-two|Source} to {Language}
+Translate translate {what|Source} {is|Source} {the|Source} {weather|Source} {in|Source} {Miami|Source} {Beach|Source} to {Language}
+Translate translate {you|Source} {get|Source} {nothing|Source} {you|Source} {lose|Source} {good|Source} {day|Source} {sir|Source} to {Language}
+Translate translate {the|Source} {quick|Source} {brown|Source} {fox|Source} {jumps|Source} {over|Source} {the|Source} {lazy|Source} {dog|Source} to {Language}
+Translate translate {we|Source} {are|Source} {the|Source} {music|Source} {makers|Source} {we|Source} {are|Source} {the|Source} {dreamers|Source} {of dreams|Source} to {Language}
+Translate translate {we|Source} {are|Source} {the|Source} {music|Source} {makers|Source} {we|Source} {are|Source} {the|Source} {dreamers|Source} {of dreams|Source} {of dreams|Source} to {Language} 
+Translate translate {we|Source} {are|Source} {the|Source} {music|Source} {makers|Source} {we|Source} {are|Source} {the|Source} {dreamers|Source} {of dreams|Source} {of dreams|Source} {i like|Source} to {Language} 
+Translate say {hello|Source} to {Language}
+Translate say Translate how to say {hello|Source} in {Language}
+Translate say Translate to translate {hello|Source} to {Language}
+Translate say translation for {hello|Source} in {Language}
+Translate say is {hello|Source} in {Language}
+Translate say {hello|Source} in {Language}
+Translate say {hello|Source} {there|Source} to {Language}
+Translate say {hello|Source} {cold|Source} {here|Source} to {Language}
+Translate say {my|Source} {name|Source} {is|Source} {Alexa|Source} to {Language}
+Translate say {the|Source} {weather|Source} {outside|Source} {is|Source} {frightful|Source} to {Language}
+Translate say {the|Source} {meaning|Source} {of|Source} {life|Source} {is|Source} {forty-two|Source} to {Language}
+Translate say {what|Source} {is|Source} {the|Source} {weather|Source} {in|Source} {Miami|Source} {Beach|Source} to {Language}
+Translate say {you|Source} {get|Source} {nothing|Source} {you|Source} {lose|Source} {good|Source} {day|Source} {sir|Source} to {Language}
+Translate say {the|Source} {quick|Source} {brown|Source} {fox|Source} {jumps|Source} {over|Source} {the|Source} {lazy|Source} {dog|Source} to {Language}
+Translate say {we|Source} {are|Source} {the|Source} {music|Source} {makers|Source} {we|Source} {are|Source} {the|Source} {dreamers|Source} {of dreams|Source} to {Language}
+Translate say {we|Source} {are|Source} {the|Source} {music|Source} {makers|Source} {we|Source} {are|Source} {the|Source} {dreamers|Source} {of dreams|Source} {of dreams|Source} to {Language} 
+Translate say {we|Source} {are|Source} {the|Source} {music|Source} {makers|Source} {we|Source} {are|Source} {the|Source} {dreamers|Source} {of dreams|Source} {of dreams|Source} {i like|Source} to {Language} 
+Translate {hello|Source} to {Language}
+Translate {hello|Source} in {Language}
+Translate {hello|Source} to {Language}
+Translate {hello|Source} in {Language}
+Translate {hello|Source} in {Language}
+Translate {hello|Source} in {Language}
+Translate {hello|Source} {there|Source} to {Language}
+Translate {hello|Source} {cold|Source} {here|Source} to {Language}
+Translate {my|Source} {name|Source} {is|Source} {Alexa|Source} to {Language}
+Translate {the|Source} {weather|Source} {outside|Source} {is|Source} {frightful|Source} to {Language}
+Translate {the|Source} {meaning|Source} {of|Source} {life|Source} {is|Source} {forty-two|Source} to {Language}
+Translate {what|Source} {is|Source} {the|Source} {weather|Source} {in|Source} {Miami|Source} {Beach|Source} to {Language}
+Translate {you|Source} {get|Source} {nothing|Source} {you|Source} {lose|Source} {good|Source} {day|Source} {sir|Source} to {Language}
+Translate {the|Source} {quick|Source} {brown|Source} {fox|Source} {jumps|Source} {over|Source} {the|Source} {lazy|Source} {dog|Source} to {Language}
+Translate {we|Source} {are|Source} {the|Source} {music|Source} {makers|Source} {we|Source} {are|Source} {the|Source} {dreamers|Source} {of dreams|Source} to {Language}
+Translate {we|Source} {are|Source} {the|Source} {music|Source} {makers|Source} {we|Source} {are|Source} {the|Source} {dreamers|Source} {of dreams|Source} {of dreams|Source} to {Language} 
+Translate {we|Source} {are|Source} {the|Source} {music|Source} {makers|Source} {we|Source} {are|Source} {the|Source} {dreamers|Source} {of dreams|Source} {of dreams|Source} {i like|Source} to {Language} 
+Translate {the|Source} {quick|Source} {brown|Source} {fox|Source} {jumps|Source} {over|Source} {the|Source} {lazy|Source} {dog|Source} in {Language}
+Translate {we|Source} {are|Source} {the|Source} {music|Source} {makers|Source} {we|Source} {are|Source} {the|Source} {dreamers|Source} {of dreams|Source} in {Language}
+Translate {we|Source} {are|Source} {the|Source} {music|Source} {makers|Source} {we|Source} {are|Source} {the|Source} {dreamers|Source} {of dreams|Source} {of dreams|Source} in {Language} 
+Translate {we|Source} {are|Source} {the|Source} {music|Source} {makers|Source} {we|Source} {are|Source} {the|Source} {dreamers|Source} {of dreams|Source} {of dreams|Source} {i like|Source} in {Language}
+Translate {the|Source} {quick|Source} {brown|Source} {fox|Source} {jumps|Source} {over|Source} {the|Source} {lazy|Source} {dog|Source} as {Language}
+Translate {we|Source} {are|Source} {the|Source} {music|Source} {makers|Source} {we|Source} {are|Source} {the|Source} {dreamers|Source} {of dreams|Source} as {Language}
+Translate {we|Source} {are|Source} {the|Source} {music|Source} {makers|Source} {we|Source} {are|Source} {the|Source} {dreamers|Source} {of dreams|Source} {of dreams|Source} as {Language} 
+Translate {we|Source} {are|Source} {the|Source} {music|Source} {makers|Source} {we|Source} {are|Source} {the|Source} {dreamers|Source} {of dreams|Source} {of dreams|Source} {i like|Source} as {Language}

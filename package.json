@@ -1,0 +1,14 @@
+{
+  "name": "foobar",
+  "version": "1.0.0",
+  "description": "We just put our hands on the Amazon Echo - a new Alexa powered voice assistant device from Bezos-topia (aka Amazon). Let's see what we can do with it.",
+  "main": "index.js",
+  "scripts": {
+	"zip": "zip -r foobar.zip *"
+  },
+  "author": "Iddo Gino",
+  "license": "ISC",
+  "dependencies": {
+    "rapidapi-connect": "0.0.1"
+  }
+}

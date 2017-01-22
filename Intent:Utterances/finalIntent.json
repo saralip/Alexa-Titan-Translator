@@ -1,0 +1,17 @@
+{
+    "intents": [
+        {
+            "intent" : "Translate",
+            "slots": [
+                {
+                    "name" : "Source",
+                    "type" : "AMAZON.LITERAL"
+                },
+                {
+                    "name" : "Language",
+                    "type" : "LANGUAGES_LIST"
+                }
+            ]
+        }
+    ]
+}
