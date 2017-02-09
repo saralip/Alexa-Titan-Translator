@@ -69,7 +69,7 @@ function handleSessionEndRequest(callback) {
  */
  
 function translate(intent, session, callback) {
-    const GoogleAPIKey = 'AIzaSyCDogEcpeA84USVXMS471PDt3zsG-caYDM';
+    const GoogleAPIKey = '#############';
 
     const langCodes = {
         "German" : "de",
